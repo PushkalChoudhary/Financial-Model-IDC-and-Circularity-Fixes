@@ -1,0 +1,8 @@
+1) Kindly, Turn on 'VBA macros' and unblock the Excel file by right clicking on it and going to properties and then check the 'Unblock' button and click 'Apply'
+Click on Update button in 2nd sheet to Run VBA Macros.
+
+
+2) To turn on Iterative calculations: File → Options → Formulas → Enable iterative calculation
+
+
+3) This model demonstrates how I approach IDC and circular references.
